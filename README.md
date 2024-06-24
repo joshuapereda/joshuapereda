@@ -50,14 +50,14 @@
 
 <h1 align="center">PROYECTOS</h1>
 
-<h4>1. Todo app using ReactJS </h4>
+<h4>1. Portafolio Personal </h4>
 
-<a href="https://ravisolanki27.github.io/React-Project/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/todo.png" ></a>
+<a href="https://ravisolanki27.github.io/React-Project/" target="blank"><img src="https://github.com/joshuapereda/fotos/blob/main/portafolio.png" ></a>
 
 
-<h4>2. Random Quote generator using NodeJs </h4>
+<h4>2. Sistema InterClubesPerú </h4>
 
-<a href="https://ravisolanki27.github.io/Quote-Generator/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/qoutegenerator.png" ></a>
+<a href="https://ravisolanki27.github.io/Quote-Generator/" target="blank"><img src="https://github.com/joshuapereda/fotos/blob/main/interclubes.png" ></a>
 
 ---
 
