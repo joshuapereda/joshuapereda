@@ -1,6 +1,11 @@
 <img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/banner.png" style="height: 100% , width:100%">
 <h1 align="center">Hola 👋, soy Joshua Pereda</h1>
 <h3 align="center">Soy  programador y un entusiasta técnico de 19 años que hace desarrollo web, blogs y diseño. Apasionado por contribuir con proyectos de código abierto y crear contenido interesante.</h3>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ---
 
@@ -11,11 +16,7 @@
 -  📫Cómo contactarme **joshuadesihuas@gmail.com**
 
 ---
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 <h1 align="center">TECNOLOGÍA</h1>
 
