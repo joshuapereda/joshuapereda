@@ -89,10 +89,9 @@
 </div>
 
 ---
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<h6 align="center">Hecho con ❤️ por mí</h6>
 
 ---
 
 
-Credit: [RaviSolanki27](https://github.com/RaviSolanki27)
-Last Edited on: 06/02/2022
+
