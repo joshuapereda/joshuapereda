@@ -1,4 +1,4 @@
-<img src="[https://github.com/RaviSolanki27/RaviSolanki27/raw/master/banner.png](https://github.com/joshuapereda/fotos/blob/main/banner.png)" style="height: 100% , width:100%">
+<img src="https://github.com/joshuapereda/fotos/blob/main/banner.png" style="height: 100% , width:100%">
 
 <h1 align="center">Hola 👋, soy Joshua Pereda</h1>
 <h3 align="center">Soy  programador y un entusiasta técnico de 19 años que hace desarrollo web, blogs y diseño. Apasionado por contribuir con proyectos de código abierto y crear contenido interesante.</h3>
