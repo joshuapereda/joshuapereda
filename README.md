@@ -1,14 +1,14 @@
 <img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/banner.png" style="height: 100% , width:100%">
-<h1 align="center">Hi 👋, I'm Raviraj Solanki</h1>
-<h3 align="center">I'm an Engineer and a 22-year old technical enthusiast who does web development, Blogging and Designing. Passionate to contribute open-source projects and create cool content.</h3>
+<h1 align="center">Hola 👋, soy Joshua Pereda</h1>
+<h3 align="center">Soy  programador y un entusiasta técnico de 19 años que hace desarrollo web, blogs y diseño. Apasionado por contribuir con proyectos de código abierto y crear contenido interesante.</h3>
 
 ---
 
-- 🔭 I’m currently working on [Portfolio website]()
+- 🔭 Actualmente estoy trabajando en [sitio web del portafolio]()
 
-- 🌱 I’m currently learning **M E R N**
+- 🌱 Actualmente estoy aprendiendo **Desarrollo de Aplicaciones Moviles de Android**
 
-- 📫 How to reach me **ravisolanki9322@gmail.com**
+-  📫Cómo contactarme **joshuadesihuas@gmail.com**
 
 ---
 
