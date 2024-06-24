@@ -22,9 +22,9 @@
 
 <p align="center">
 <img width="100" height="100" src="https://img.icons8.com/fluency/100/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="height: 4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
+<img width="32" height="32" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-net-web-services-outline-outline-black-m-oki-orlando.png" alt="external-net-web-services-outline-outline-black-m-oki-orlando"/>
+<img width="100" height="100" src="https://img.icons8.com/color/100/spring-logo.png" alt="spring-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
