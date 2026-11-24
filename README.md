@@ -134,12 +134,42 @@ public class Developer {
 <tr>
 <td width="50%" valign="top">
 
+### 🗳️ Sistema de Conteo Rápido Electoral
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Usado_en_elecciones-0057FF?style=flat-square" />
+
+Los **personeros de mesa** registraban desde su celular el conteo de votos de su mesa, organizado por **distrito, local de votación y número de mesa**. El sistema consolidaba todo en un **dashboard en tiempo real** con resultados por partido, distrito, local y mesa.
+
+`Elecciones Municipales · Sihuas, Áncash · 2026`
+<br/>
+<a href="https://sihuasvota.online/login"><img src="https://img.shields.io/badge/Ver_sistema_→-000000?style=for-the-badge" /></a>
+<a href="https://github.com/joshuapereda/control-votos"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web de Campaña Municipal
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Responsive-0057FF?style=flat-square" />
+
+Sitio web informativo para un **candidato a la alcaldía de Sihuas**: propuestas, equipo y contacto, optimizado para celulares.
+
+`Elecciones Municipales · Sihuas, Áncash · 2026`
+<br/>
+<a href="https://joshuapereda.github.io/webAbdonCasahuaman/"><img src="https://img.shields.io/badge/Ver_sitio_→-000000?style=for-the-badge" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 💳 Sistema de Control de Créditos y Ventas
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/API_REST-0057FF?style=flat-square" />
 
 Ventas al contado y al crédito, con **pagos parciales, cuotas y saldos pendientes** por cliente.
 
 `2026`
+<br/>
+<a href="https://github.com/joshuapereda/back_sistema_credito_joshua"><img src="https://img.shields.io/badge/API_Spring_Boot-6DB33F?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/joshuapereda/front_sistema_credito_joshua"><img src="https://img.shields.io/badge/Front_Angular-DD0031?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -209,6 +239,7 @@ Plataforma web de gestión de clubes deportivos.
 
 | Periodo | Rol | Empresa | Stack |
 |:--|:--|:--|:--|
+| Ago 2026 – Oct 2026 | Desarrollador web freelance | Campaña municipal · Sihuas, Áncash | Laravel · Tailwind · MySQL |
 | Ago 2025 – Dic 2025 | Desarrollador de aplicativo | Municipalidad de San Juan de Sihuas | Móvil Android / iOS |
 | Abr 2025 – Ago 2025 | Desarrollador de sistema de ventas | Bazar Taquito Shoes | Laravel · Vue · MySQL |
 | Jul 2024 – Dic 2024 | Practicante de desarrollo | PA Perú SAC | Laravel · MySQL |
